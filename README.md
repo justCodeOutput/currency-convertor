@@ -1,6 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple beginner friendly currency-convertor web app built completely using react.js. Where the user enters the amount and selects the currency type from the drop-down menu, FROM which TO which currency the conversion should take place, so that to achieve the expected output. 😃✌
 
 Screenshots
 
